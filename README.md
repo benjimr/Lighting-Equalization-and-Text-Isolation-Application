@@ -20,22 +20,22 @@ Never more than 15 seconds in my experience but may vary from computer to comput
 ### Sample 1 - Main Task
 <table cellspacing="0", cellpadding="0", border="0" style="text-align:center;">
 <tr>
-<td style="width:300px; text-align:center;">
-    <img src="https://i.imgur.com/blI49aZ.jpg" alt="Original" width="200"/><br>Original
+<td style="width:400px; text-align:center;">
+    <img src="https://i.imgur.com/blI49aZ.jpg" alt="Original"/><br>Original
 </td>
 
-<td style="width:300px; text-align:center;">
-    <img src="https://i.imgur.com/qxKnaTC.jpg" alt="Contoured" width="200"/><br>Contoured
+<td style="width:400px; text-align:center;">
+    <img src="https://i.imgur.com/qxKnaTC.jpg" alt="Contoured"/><br>Contoured
 </td>
 </tr>
 
 <tr>
-<td style="width:300px; text-align:center;">
-<img src="https://i.imgur.com/IXaA8jn.jpg" alt="Processed 1" width="200"/><br>Processed Option 1
+<td style="width:400px; text-align:center;">
+<img src="https://i.imgur.com/IXaA8jn.jpg" alt="Processed 1"/><br>Processed Option 1
 </td>
 
-<td style="width:300px; text-align:center;">
-<img src="https://i.imgur.com/YTnhluH.jpg" alt="Processed 2" width="200"/><br>Processed Option 2
+<td style="width:400px; text-align:center;">
+<img src="https://i.imgur.com/YTnhluH.jpg" alt="Processed 2"/><br>Processed Option 2
 </td>
 </tr>
 </table>
@@ -44,22 +44,22 @@ Never more than 15 seconds in my experience but may vary from computer to comput
 ### Sample 2 - Difficult Extra Sample
 <table cellspacing="0", cellpadding="0", border="0" style="text-align:center;">
 <tr>
-<td style="width:300px; text-align:center;">
-<img src="https://i.imgur.com/cNADitA.jpg" alt="Original" width="200"/><br>Original
+<td style="width:400px; text-align:center;">
+<img src="https://i.imgur.com/cNADitA.jpg" alt="Original"/><br>Original
 </td>
 
-<td style="width:300px; text-align:center;">
-<img src="https://i.imgur.com/434t9Ch.jpg" alt="Contoured" width="200"/><br>Contoured
+<td style="width:400px; text-align:center;">
+<img src="https://i.imgur.com/434t9Ch.jpg" alt="Contoured"/><br>Contoured
 </td>
 </tr>
 
 <tr>
-<td style="width:300px; text-align:center;">
-<img src="https://i.imgur.com/yPojSku.jpg" alt="Processed 1" width="200"/><br>Processed Option 1
+<td style="width:400px; text-align:center;">
+<img src="https://i.imgur.com/yPojSku.jpg" alt="Processed 1"/><br>Processed Option 1
 </td>
 
-<td style="width:300px; text-align:center;">
-<img src="https://i.imgur.com/sg5fZVz.jpg" alt="Processed 2" width="200"/><br>Processed Option 2
+<td style="width:400px; text-align:center;">
+<img src="https://i.imgur.com/sg5fZVz.jpg" alt="Processed 2"/><br>Processed Option 2
 </td>
 </tr>
 </table>
@@ -71,22 +71,22 @@ It works to a certain extent on this image, in terms of cropping and light equal
 
 <table cellspacing="0", cellpadding="0", border="0" style="text-align:center;">
 <tr>
-<td style="width:300px; text-align:center;">
-<img src="https://i.imgur.com/RvmcHpF.jpg" alt="Original" width="200"/><br>Original
+<td style="width:400px; text-align:center;">
+<img src="https://i.imgur.com/RvmcHpF.jpg" alt="Original""/><br>Original
 </td>
 
-<td style="width:300px; text-align:center;">
-<img src="https://i.imgur.com/AlsY1gp.jpg" alt="Contoured" width="200"/><br>Contoured
+<td style="width:400px; text-align:center;">
+<img src="https://i.imgur.com/AlsY1gp.jpg" alt="Contoured"/><br>Contoured
 </td>
 </tr>
 
 <tr>
-<td style="width:300px; text-align:center;">
-<img src="https://i.imgur.com/wikl8pB.jpg" alt="Processed 1" width="200"/><br>Processed Option 1
+<td style="width:400px; text-align:center;">
+<img src="https://i.imgur.com/wikl8pB.jpg" alt="Processed 1"/><br>Processed Option 1
 </td>
 
-<td style="width:300px; text-align:center;">
-<img src="https://i.imgur.com/uYg7VLK.jpg" alt="Processed 2" width="200"/><br>Processed Option 2
+<td style="width:400px; text-align:center;">
+<img src="https://i.imgur.com/uYg7VLK.jpg" alt="Processed 2"/><br>Processed Option 2
 </td>
 </tr>
 </table>
