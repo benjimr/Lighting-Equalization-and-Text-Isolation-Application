@@ -18,7 +18,7 @@ Never more than 15 seconds in my experience but may vary from computer to comput
 
 ## Sample Images and Results
 ### Sample 1 - Main Task
-<table cellspacing="0", cellpadding="0", border="0" style="text-align:center;">
+<table>
 <tr>
 <td style="width:300px; text-align:center;">
     <img src="https://i.imgur.com/blI49aZ.jpg" alt="Original"/><br>Original
@@ -42,7 +42,7 @@ Never more than 15 seconds in my experience but may vary from computer to comput
 
 
 ### Sample 2 - Difficult Extra Sample
-<table cellspacing="0", cellpadding="0", border="0" style="text-align:center;">
+<table>
 <tr>
 <td style="width:300px; text-align:center;">
 <img src="https://i.imgur.com/cNADitA.jpg" alt="Original"/><br>Original
@@ -69,7 +69,7 @@ Never more than 15 seconds in my experience but may vary from computer to comput
 The armistice image is a photo of a message notifying WWI soldiers of the armistice. This project was developed close to the centenary of armistice day, and so the restoration of this image was thrown in as a secondary objective.
 It works to a certain extent on this image, in terms of cropping and light equalization, however the faded text is still quite unreadable.
 
-<table cellspacing="0", cellpadding="0", border="0" style="text-align:center;">
+<table>
 <tr>
 <td style="width:300px; text-align:center;">
 <img src="https://i.imgur.com/RvmcHpF.jpg" alt="Original""/><br>Original
