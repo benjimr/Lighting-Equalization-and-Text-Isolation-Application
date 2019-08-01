@@ -18,32 +18,30 @@ Never more than 15 seconds in my experience but may vary from computer to comput
 
 ## Sample Images and Results
 ### Sample 1 - Main Task
-<script style="text-align:center;">
-    <table cellspacing="0", cellpadding="0", border="0" style="text-align:center;">
-        <tr>
-            <td style="width:300px; text-align:center;">
-                <img src="https://i.imgur.com/blI49aZ.jpg" alt="Original" width="200"/><br>Original
-            </td>
+<table cellspacing="0", cellpadding="0", border="0" style="text-align:center;">
+    <tr>
+        <td style="width:300px; text-align:center;">
+            <img src="https://i.imgur.com/blI49aZ.jpg" alt="Original" width="200"/><br>Original
+        </td>
 
-            <td style="width:300px; text-align:center;">
-                <img src="https://i.imgur.com/qxKnaTC.jpg" alt="Contoured" width="200"/><br>Contoured
-            </td>
-        </tr>
+        <td style="width:300px; text-align:center;">
+            <img src="https://i.imgur.com/qxKnaTC.jpg" alt="Contoured" width="200"/><br>Contoured
+        </td>
+    </tr>
 
-        <tr>
-            <td style="width:300px; text-align:center;">
-                <img src="https://i.imgur.com/IXaA8jn.jpg" alt="Processed 1" width="200"/><br>Processed Option 1
-            </td>
+    <tr>
+        <td style="width:300px; text-align:center;">
+            <img src="https://i.imgur.com/IXaA8jn.jpg" alt="Processed 1" width="200"/><br>Processed Option 1
+        </td>
 
-            <td style="width:300px; text-align:center;">
-                <img src="https://i.imgur.com/YTnhluH.jpg" alt="Processed 2" width="200"/><br>Processed Option 2
-            </td>
-        </tr>
-    </table>
-</script>
+        <td style="width:300px; text-align:center;">
+            <img src="https://i.imgur.com/YTnhluH.jpg" alt="Processed 2" width="200"/><br>Processed Option 2
+        </td>
+    </tr>
+</table>
+
 
 ### Sample 2 - Difficult Extra Sample
-<pre style="text-align:center;">
     <table cellspacing="0", cellpadding="0", border="0" style="text-align:center;">
         <tr>
             <td style="width:300px; text-align:center;">
@@ -65,13 +63,12 @@ Never more than 15 seconds in my experience but may vary from computer to comput
             </td>
         </tr>
     </table>
-</pre>
+
 
 ### Armistice Image - Secondary Objective
 The armistice image is a photo of a message notifying WWI soldiers of the armistice. This project was developed close to the centenary of armistice day, and so the restoration of this image was thrown in as a secondary objective.
 It works to a certain extent on this image, in terms of cropping and light equalization, however the faded text is still quite unreadable.
 
-<pre style="text-align:center;">
     <table cellspacing="0", cellpadding="0", border="0" style="text-align:center;">
         <tr>
             <td style="width:300px; text-align:center;">
@@ -93,7 +90,6 @@ It works to a certain extent on this image, in terms of cropping and light equal
             </td>
         </tr>
     </table>
-</pre>
 
 ## Summary of Functions
 isolateBlock() : used for cropping sections of the image
