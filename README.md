@@ -1,6 +1,4 @@
-# Lighting Equalization and Text Isolation
-
-The program will crop, reduce noise, sharpen and equalize lighting in an image with text.
+The goal of this program is to crop, reduce noise, sharpen and equalize lighting in an image with text.
 
 ## How to use
 First the user must choose whether they want the output to be shown step by step using command line text input
